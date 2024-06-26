@@ -1,5 +1,5 @@
 a=2
-b=300
+b=500
 c=a*b
 d=a/b
 print(c)
